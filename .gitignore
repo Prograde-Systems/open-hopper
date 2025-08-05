@@ -207,10 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 
-# Typst
-
-# Typst build outputs
-*.pdf
 
 # VS Code settings (optional)
 .vscode/
